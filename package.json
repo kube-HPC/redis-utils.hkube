@@ -1,0 +1,22 @@
+{
+  "name": "redis-utils.rf",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ioredis": "^1.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.rms:RMS-Common/redis-utils.git"
+  },
+  "author": "Nassi Harel",
+  "license": "ISC"
+}
