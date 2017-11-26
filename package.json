@@ -1,5 +1,5 @@
 {
-  "name": "redis-utils.hkube",
+  "name": "@hkube/redis-utils",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
