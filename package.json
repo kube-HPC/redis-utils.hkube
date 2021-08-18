@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "ioredis": "^3.2.2"
+    "ioredis": "^4.27.8"
   },
   "devDependencies": {},
   "scripts": {
